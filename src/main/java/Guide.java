@@ -44,7 +44,7 @@ public class Guide {
         this.id = id;
     }
     /**
-     *  This is a METHOD. A method is a reusable block of code that belongs to a specific object.
+     *  This is a METHOD.  A method is a reusable block of code that belongs to a specific object.
      *  Methods usually return something. Returning means that the method produces some value and ends.
      *  Methods oftentimes have parameters as well, which are like temporary variables that can be
      *  given to a method when it is used. If you imagine a search engine as a method, you can think of
